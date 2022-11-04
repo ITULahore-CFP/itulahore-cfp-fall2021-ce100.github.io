@@ -1,0 +1,62 @@
+{"0": {
+    "doc": "Page of Fame",
+    "title": "Students",
+    "content": "Best Students of Computing Fundamentals &amp; Programming CE . ",
+    "url": "http://localhost:4000/famepage/#students",
+    "relUrl": "/famepage/#students"
+  },"1": {
+    "doc": "Page of Fame",
+    "title": "Top 3 Performers",
+    "content": " ",
+    "url": "http://localhost:4000/famepage/#top-3-performers",
+    "relUrl": "/famepage/#top-3-performers"
+  },"2": {
+    "doc": "Page of Fame",
+    "title": "Page of Fame",
+    "content": "| ",
+    "url": "http://localhost:4000/famepage/",
+    "relUrl": "/famepage/"
+  },"3": {
+    "doc": "Computing Fundamentals & Programming CE",
+    "title": "Fall 2021- CE100 - CFP",
+    "content": " ",
+    "url": "http://localhost:4000/#fall-2021--ce100---cfp",
+    "relUrl": "/#fall-2021--ce100---cfp"
+  },"4": {
+    "doc": "Computing Fundamentals & Programming CE",
+    "title": "Computing Fundamentals &amp; Programming",
+    "content": "This introductory course is aimed at the students with little or no programming experience, and it introduces students to the basics of computers and programming. On one hand they will learn basic topics of computing and usage, while on the other hand they will be exposed to programming language(s). By the end of course the student should be capable of programming in at least one programming language. ",
+    "url": "http://localhost:4000/#computing-fundamentals--programming",
+    "relUrl": "/#computing-fundamentals--programming"
+  },"5": {
+    "doc": "Computing Fundamentals & Programming CE",
+    "title": "Computing Fundamentals & Programming CE",
+    "content": " ",
+    "url": "http://localhost:4000/",
+    "relUrl": "/"
+  },"6": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#staff",
+    "relUrl": "/staff/#staff"
+  },"7": {
+    "doc": "Staff",
+    "title": "Instructor",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#instructor",
+    "relUrl": "/staff/#instructor"
+  },"8": {
+    "doc": "Staff",
+    "title": "Teaching Assistants",
+    "content": " ",
+    "url": "http://localhost:4000/staff/#teaching-assistants",
+    "relUrl": "/staff/#teaching-assistants"
+  },"9": {
+    "doc": "Staff",
+    "title": "Staff",
+    "content": "| ",
+    "url": "http://localhost:4000/staff/",
+    "relUrl": "/staff/"
+  }
+}
